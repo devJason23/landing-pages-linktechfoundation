@@ -11,7 +11,7 @@
     },
     {
       "source": "/:match*",
-      "destination": "https://linktechfoundation.org/:match*"
+      "destination": "linktech-revamp-project.vercel.app/:match*"
     }
   ]
 }
