@@ -1,0 +1,17 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/booking/:match*",
+      "destination": "https://booking-zenith-animation.vercel.app/:match*"
+    },
+    {
+      "source": "/vortex/:match*",
+      "destination": "https://vortex-wealth-builder.vercel.app/:match*"
+    },
+    {
+      "source": "/:match*",
+      "destination": "https://linktechfoundation.org/:match*"
+    }
+  ]
+}
